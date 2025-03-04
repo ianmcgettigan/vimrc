@@ -1,6 +1,4 @@
-# vimrc
-
-- `vim` -> `edit $MYVIMRC` -> `p` -> `:w`
+# My VIMRC
 
 ```vim
 call plug#begin('~/.vim/plugged')
